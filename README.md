@@ -1,5 +1,5 @@
 👋 Hi, I'm Mózes!  
-I'm passionate about data analytics and data warehouse development. Here's what I do:  
+I'm passionate about data engineering and analytics. Here's what I do:
 
 📊 I create Power BI projects to explore and visualize data.  
 🗄️ I enjoy learning about data warehouse concepts like ETL and data modeling.  
