@@ -7,6 +7,23 @@ I'm passionate about data engineering and analytics. Here's what I do:
 ☁️ I'm interested in cloud-based technologies and how they support modern analytics.  
 🚀 I love experimenting with tools that turn raw data into business insights.
 
+
+## 🗄️ SQL Projects  
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/LLMozes/sql-data-warehouse-project">
+  <img src="https://github.com/LLMozes/sql-data-warehouse-project/blob/main/docs/data_architecture.drawio.png?raw=true" width="500">
+</a>
+<br>
+<a href="https://github.com/LLMozes/sql-data-warehouse-project">SQL Data Warehouse Project</a>
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 Power BI Projects  
 
 <table>
@@ -22,20 +39,6 @@ I'm passionate about data engineering and analytics. Here's what I do:
 </table>
 
 ---
-
-## 🗄️ SQL Projects  
-
-<table>
-<tr>
-<td>
-<a href="https://github.com/LLMozes/sql-data-warehouse-project">
-  <img src="https://github.com/LLMozes/sql-data-warehouse-project/blob/main/docs/data_architecture.drawio.png?raw=true" width="500">
-</a>
-<br>
-<a href="https://github.com/LLMozes/sql-data-warehouse-project">SQL Data Warehouse Project</a>
-</td>
-</tr>
-</table>
 
 ## 🐍 Power BI & Python Project  
 
