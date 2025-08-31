@@ -36,3 +36,17 @@ I'm passionate about data engineering and analytics. Here's what I do:
 </td>
 </tr>
 </table>
+
+## 🐍 Power BI & Python Project  
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/LLMozes/power_bi_python">
+  <img src="https://github.com/LLMozes/power_bi_python/blob/main/docs/power_bi_python_4oldal.png?raw=true" width="500">
+</a>
+<br>
+<a href="https://github.com/LLMozes/power_bi_python">Power BI & Python Project</a>
+</td>
+</tr>
+</table>
