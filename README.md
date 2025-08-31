@@ -7,7 +7,7 @@ I'm passionate about data analytics and data warehouse development. Here's what 
 ☁️ I'm interested in cloud-based technologies and how they support modern analytics.  
 🚀 I love experimenting with tools that turn raw data into business insights.
 
-## My latest projects ✨  
+## 📊 Power BI Projects  
 
 <table>
 <tr>
@@ -17,6 +17,22 @@ I'm passionate about data analytics and data warehouse development. Here's what 
 </a>
 <br>
 <a href="https://github.com/LLMozes/Projects/tree/main/PowerBI/power_bi_contoso_sales">Power BI Contoso Sales Dashboard</a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🗄️ SQL Projects  
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/LLMozes/sql-data-warehouse-project">
+  <img src="https://github.com/LLMozes/sql-data-warehouse-project/blob/main/docs/data_architecture.drawio.png?raw=true" width="500">
+</a>
+<br>
+<a href="https://github.com/LLMozes/sql-data-warehouse-project">SQL Data Warehouse Project</a>
 </td>
 </tr>
 </table>
