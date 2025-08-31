@@ -8,7 +8,7 @@ I'm passionate about data engineering and analytics. Here's what I do:
 🚀 I love experimenting with tools that turn raw data into business insights.
 
 
-## 🗄️ SQL Projects  
+## 🗄️ MSSQL Projects  
 
 <table>
 <tr>
